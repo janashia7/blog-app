@@ -1,0 +1,33 @@
+{
+  "id": 1,
+  "company_name": "starbucks",
+  "type": "restaurant",
+  "description": "Starbucks Corp (Starbucks) is a specialty coffee retailer. It roasts, markets, and retails specialty coffee. The company, through its stores, offers several blends of coffee, handcrafted beverages, merchandise, and food items.",
+  "address": {
+    "street_address": "LA218",
+    "street_address2": "CA567",
+    "city": "Kutaisi",
+    "country": "Georgia",
+    "zip_code": "4600"
+  },
+  "company_number": "+995568623620",
+  "take_out": true,
+  "delivery": false,
+  "working_day": {
+    "custom": false,
+    "closed": false,
+    "24hr": true
+  },
+  "saturday": {
+    "custom": true,
+    "closed": false,
+    "24hr": false,
+    "from": "10:00",
+    "to": "17:00"
+  },
+  "sunday": {
+    "custom": false,
+    "closed": true,
+    "24hr": false
+  }
+}
